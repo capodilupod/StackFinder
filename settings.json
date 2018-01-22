@@ -1,0 +1,7 @@
+{
+	"galaxy.meteor.com": {
+		"env": {
+			"MONGO_URL": "mongodb://meteor:J6D56Usr44IRibqv9BxS2bK5gbA@ds131312.mlab.com:31312/stackfinder"
+		}
+	}	
+}
